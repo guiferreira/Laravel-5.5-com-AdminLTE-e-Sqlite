@@ -11,3 +11,7 @@ php artisan key:generate
 Rode com:
 
 php artisan serve
+
+Depois basta abrir no navegador:
+
+localhost:8000
