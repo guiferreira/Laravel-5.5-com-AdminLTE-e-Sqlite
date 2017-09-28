@@ -2,8 +2,12 @@
 Projeto Laravel 5.5 configurado com AdminLTE e Sqlite
 
 ## Instalação
-Rode o comando:
+Rode os comandos:
 
 composer update
 
 php artisan key:generate
+
+Rode com:
+
+php artisan serve
